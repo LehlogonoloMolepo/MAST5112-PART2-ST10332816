@@ -1,7 +1,4 @@
-1. Application Overview
-The React Native application is designed to help users manage a restaurant's menu. It allows users to view different courses, add new dishes, see details about specific courses, and compile selected dishes into a custom menu. The app provides a user-friendly interface with smooth navigation between different screens.
-
-2. Key Screens and Their Functions
+1. Key Screens and Their Functions
 a. App.tsx
 Navigation Setup: The entry point of the application, this file configures the navigation stack using React Navigation. It defines four main screens:
 SecondPage: Displays available courses.
